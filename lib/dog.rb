@@ -2,6 +2,6 @@ class Dog
   @@all = []
 
   def self.all
-    @@all  
+    @@all
   end
 end
